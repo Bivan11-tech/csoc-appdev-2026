@@ -1,2 +1,3 @@
-# csoc-appdev-2026
-This is a github repository for learning app dev through csoc 2026.
+# Food Delivery App
+
+Generated README template with architecture, setup, Docker, mobile setup, and cache strategy.
